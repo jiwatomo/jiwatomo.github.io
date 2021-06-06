@@ -21,6 +21,6 @@ website ini hanya menampilkan beberapa link dari website www.vido.com<br>
  SILAHKAN COBA LAIN WAKTU/TUNGGU,KARENA SAYA MEMBUAT MENGGUNAKAN WEB GRATISAN DARI GITHUB.
 
 
-Program/cara ini masih beta,anda dapat membantu dengan pull req,jika bagus nanti saya setujukan
+Contribute open!
 
 info lain,cek profile.
